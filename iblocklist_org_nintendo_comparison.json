@@ -1,0 +1,38 @@
+[
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762691663,
+		"common": 3891
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346547211,
+		"common": 280
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 138890375,
+		"common": 224
+	},
+	{
+		"name": "iblocklist_org_electronic_arts",
+		"category": "organizations",
+		"ips": 69720,
+		"common": 2048
+	},
+	{
+		"name": "iblocklist_yoyo_adservers",
+		"category": "organizations",
+		"ips": 11646,
+		"common": 2
+	},
+	{
+		"name": "yoyo_adservers",
+		"category": "organizations",
+		"ips": 12241,
+		"common": 2
+	}
+]
